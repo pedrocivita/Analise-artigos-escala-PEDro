@@ -18,7 +18,7 @@ This project was developed as part of the Computer Engineering program at Insper
 - **PEDro Scale Assessment**: Evaluates articles across 11 standardized criteria
 - **Detailed Scoring**: Provides scores from 0-10 with reliability classification (Low/Moderate/High)
 - **Comprehensive Justifications**: Offers evidence-based explanations for each criterion assessment
-- **User-Friendly Interface**: Clean, intuitive Streamlit web interface
+- **User-Friendly Interface**: Clean, intuitive Streamlit web interface (Portuguese language)
 - **Real-time Processing**: Fast analysis and results generation
 
 ## PEDro Scale
@@ -87,7 +87,7 @@ streamlit run app.py
    - Enter your Google AI Studio API key in the sidebar
    - Upload a scientific article in PDF format
 
-4. **Analyze Article**: Click the "Analisar Artigo" button to begin the evaluation
+4. **Analyze Article**: Click the "Analisar Artigo" (Analyze Article) button to begin the evaluation
 
 5. **Review Results**: The application will display:
    - Detailed assessment for each PEDro criterion
