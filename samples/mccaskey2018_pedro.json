@@ -1,0 +1,86 @@
+{
+  "citation": "McCaskey MA, Wirth B, Schuster-Amft C, de Bruin ED. Postural sensorimotor training versus sham exercise in physiotherapy of patients with chronic non-specific low back pain: an exploratory randomised controlled trial. PLoS ONE. 2018;13(3):e0193358.",
+  "doi": "10.1371/journal.pone.0193358",
+  "license": "CC BY 4.0",
+  "total": 8,
+  "criteria": [
+    {
+      "number": 1,
+      "name": "Critérios de elegibilidade",
+      "answer": "Sim",
+      "scored": false,
+      "justification": "O método especifica inclusão (adultos com dor lombar crônica inespecífica por mais de 3 meses, dor entre a margem costal e as pregas glúteas inferiores) e exclusão (dor radicular ou patologia espinhal específica, cirurgia da coluna, whiplash nos últimos 12 meses, patologia vestibular, incapacidade de seguir o protocolo e tratamento para dor lombar nas 12 semanas anteriores). Este item não entra na pontuação."
+    },
+    {
+      "number": 2,
+      "name": "Alocação aleatória",
+      "answer": "Sim",
+      "scored": true,
+      "justification": "A sequência 1:1 foi gerada por blocos de tamanho variável e aleatorização simples, em uma macro do Excel, por um pesquisador que não avaliava nem aplicava o tratamento."
+    },
+    {
+      "number": 3,
+      "name": "Alocação sigilosa",
+      "answer": "Sim",
+      "scored": true,
+      "justification": "Antes da primeira sessão, os terapeutas consultavam a farmácia da clínica para saber o grupo. A sequência não ficava com quem incluía o paciente."
+    },
+    {
+      "number": 4,
+      "name": "Semelhança na linha de base",
+      "answer": "Sim",
+      "scored": true,
+      "justification": "A Tabela 1 descreve os dois grupos (n = 11) com idade média de 55 e 54 anos, EVA de dor 23,9 (DP 7,1) e 25,9 (DP 22,8), ODI 19,8 (DP 5,3) e 17,6 (DP 10,5), além de sexo, altura, peso e nível de atividade próximos."
+    },
+    {
+      "number": 5,
+      "name": "Cegamento dos sujeitos",
+      "answer": "Não",
+      "scored": true,
+      "justification": "Os autores escrevem que a tentativa de cegamento com exercício quase simulado não cegou por completo os participantes."
+    },
+    {
+      "number": 6,
+      "name": "Cegamento dos terapeutas",
+      "answer": "Não",
+      "scored": true,
+      "justification": "Os fisioterapeutas recebiam a alocação pela farmácia e aplicavam treino sensório-motor ou exercício de baixa intensidade, então conheciam o grupo."
+    },
+    {
+      "number": 7,
+      "name": "Cegamento dos avaliadores",
+      "answer": "Sim",
+      "scored": true,
+      "justification": "O ensaio é descrito como cego para o avaliador. Um examinador cego ao tratamento mediu os desfechos, e o cegamento de avaliadores e analistas foi mantido até o fim da análise."
+    },
+    {
+      "number": 8,
+      "name": "Acompanhamento adequado",
+      "answer": "Sim",
+      "scored": true,
+      "justification": "Dos 22 pacientes alocados (11 por grupo), os testes imediatamente antes e depois da intervenção foram concluídos, inclusive pelo paciente que faltou à linha de base e ao seguimento de 4 semanas. Nesse seguimento falta 1 de 22 (cerca de 95%), acima de 85%. O número 81,1% do artigo é adesão às 9 sessões de fisioterapia, não a coleta do desfecho."
+    },
+    {
+      "number": 9,
+      "name": "Análise por intenção de tratar",
+      "answer": "Sim",
+      "scored": true,
+      "justification": "O artigo declara análise por intenção de tratar. Quem saiu depois da aleatorização entrou na análise, com dados faltantes reconstruídos por carry-forward. Excluídos antes da aleatorização não entraram."
+    },
+    {
+      "number": 10,
+      "name": "Comparações entre grupos",
+      "answer": "Sim",
+      "scored": true,
+      "justification": "Há comparação entre grupos para desfechos principais. A interação grupo por tempo do ODI foi Q = 3,30 (p = 0,07) e a da dor Q = 0,84 (p = 0,51). A Tabela 2 traz diferenças entre grupos e valores de p."
+    },
+    {
+      "number": 11,
+      "name": "Medidas de ponto e variabilidade",
+      "answer": "Sim",
+      "scored": true,
+      "justification": "A Tabela 2 informa médias aparadas (ponto) e intervalos de confiança de 95% (variabilidade) para ODI, EVA e desfechos posturais. A Tabela 1 informa média e desvio padrão na linha de base."
+    }
+  ],
+  "summary": "Leitura de exemplo, já calculada, do ensaio exploratório de McCaskey et al. (2018). Os critérios 2 a 11 somam 8/10: há alocação aleatória e sigilosa, grupos comparáveis na linha de base, avaliador cego, seguimento acima de 85%, intenção de tratar, comparação entre grupos e medidas de ponto com variabilidade. Não há cegamento completo dos pacientes nem dos terapeutas. A nota descreve a condução relatada no artigo. O ensaio tem 22 pacientes aleatorizados e não mostrou diferença significativa entre os grupos nos desfechos principais, então a pontuação PEDro não é prova de eficácia do treino sensório-motor."
+}
