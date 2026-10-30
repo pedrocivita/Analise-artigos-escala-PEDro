@@ -138,6 +138,9 @@ celerybeat.pid
 .env
 .envrc
 .venv
+
+# Streamlit BYO key. Never commit secrets.toml.
+.streamlit/secrets.toml
 env/
 venv/
 ENV/
